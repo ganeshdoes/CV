@@ -1,44 +1,22 @@
+/**************************class SELECTORS*************************************/
 .body{
-background-color: orange;
 font-family: Montserrat;
 font-size: 16;
 line-height: 2;
 }
 
-.h1{
-  margin-left: 500px;
-}
-
-.nee{
-  width: 500px;
-  display: list-item;
+.head{
+  text-align: center;
 }
 
 .fitpic{
   width: 200px;
   height: 200px;
   border-radius: 100%;
-}
-
-.gif{
-  width: 180px;
-  margin-left: 1000px;
-}
-
-
-.mobile-link{
-  animation: 25px;
-}
-
-.gmail-link{
-  animation: 25px;
-}
-
-.connect-link{
-  animation: 25px;
-  margin-left: 500px;
+  margin-left: 40px;
 }
 
 .ela{
   text-decoration: underline;
 }
+
