@@ -1,0 +1,39 @@
+/**************************class SELECTORS*************************************/
+.body{
+  text-align: center;
+font-family: Montserrat;
+font-size: 16;
+line-height: 2;
+}
+
+.head{
+  text-align: center;
+}
+
+.fitpic{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-top: 30px;
+}
+
+.ela{
+  text-decoration: underline;
+}
+
+.cont-box{
+  padding: 2% 35%;
+}
+
+.red{
+  background-color: red;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.yellow{
+  background-color: yellow;
+}
+/****************************** ID SELECTORS************************************/
